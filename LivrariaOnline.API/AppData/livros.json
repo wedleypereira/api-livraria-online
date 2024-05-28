@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "3a4959ee-d4fa-4d71-9b74-ac681c35d454",
+    "Title": "A Guerra dos Tronos",
+    "Author": "George R. R. Martin",
+    "Genre": "Fantasia",
+    "Price": 53.75,
+    "Stock": 54
+  },
+  {
+    "Id": "fd13c74c-d30f-41c2-ab9e-db26efe9b51b",
+    "Title": "Harry Potter e a Câmara Secreta",
+    "Author": "J. K. Rowling",
+    "Genre": "Magia e Aventura",
+    "Price": 34.0,
+    "Stock": 9
+  },
+  {
+    "Id": "5db6e492-ba6b-493f-88c5-bc4e0f338ffc",
+    "Title": "Harry Potter e o Prisioneiro de Azkaban",
+    "Author": "J. K. Rowling",
+    "Genre": "Magia e Aventura",
+    "Price": 37.9,
+    "Stock": 15
+  }
+]
